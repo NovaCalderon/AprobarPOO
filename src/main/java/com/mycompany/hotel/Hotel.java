@@ -5,5 +5,6 @@ public class Hotel {
         System.out.println("la fè me aprobara");
         System.out.println("Enfrien a Huarote");
         System.out.println("Ingeniero completo?");
+        System.out.println("La vallejizacion de la UNI");
     }
 }
