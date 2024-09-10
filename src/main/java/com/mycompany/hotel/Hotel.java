@@ -7,5 +7,6 @@ public class Hotel {
         System.out.println("Ingeniero completo?");
         System.out.println("La vallejizacion de la UNI");
         System.out.println("terrible lo que pasará en la semana 4");
+        System.out.println("aloha?");
     }
 }
